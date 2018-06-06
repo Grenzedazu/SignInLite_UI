@@ -1,0 +1,44 @@
+/**index.wxss**/
+
+.container{
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display:flex;
+  flex-direction:column;
+  align-items:center;/*垂直居中*/
+  justify-content: space-around;/*水平居中*/
+
+}
+
+.text{
+  color: #424242
+}
+.qiandao{
+  position: fixed;
+}
+
+.userinfo-avatar {
+  width: 200rpx;
+  height: 200rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+  box-shadow: 4rpx 4rpx 4rpx 4rpx #aaa;
+}
+.oBtn{
+  /* margin-bottom: 400rpx; */
+}
+
+
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+
+.obtn{
+  width:600rpx;
+  margin:50rpx;
+  box-shadow: 4rpx 4rpx 4rpx 4rpx #aaa;
+
+}
