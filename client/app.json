@@ -1,7 +1,9 @@
 {
   "pages":[
-    "pages/index2/index",
     "pages/qiandao/qiandao",
+    "pages/qiandao_failed/qiandao_failed",
+    "pages/qiandao_success/qiandao_success",
+    "pages/index2/index",
     "pages/fabu/fabu",
     "pages/user_info/user_info"
   ],
